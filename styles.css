@@ -24,6 +24,16 @@ p {
   background-color: white;
 }
 
+.greeting {
+  margin: auto;
+  max-width: 800px;
+  text-align: center;
+}
+
+.greeting p {
+  font-size: 35px;
+}
+
 footer {
   display: flex;
   flex-direction: column;
